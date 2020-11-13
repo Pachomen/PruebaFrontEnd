@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 3em;
+  margin: 30px auto 20px auto;
+}
+
+img{
+  margin: 30px auto 20px auto;
+    max-width: 100%;
+    height: auto;
+    border: 2.5px ;
+    border-style: solid;
+}
+.rate{
+  margin-right: 18em;
+}
+
