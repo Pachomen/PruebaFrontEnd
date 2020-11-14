@@ -1,3 +1,7 @@
+# Prueba Tecnica Desarrollador Front-End
+En este proyecto se utilizaron React junto con paquetes de recursos como Axios (para la gestion de APis) y MaterialUi (para el desarrollo de un rating interactivo).
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
