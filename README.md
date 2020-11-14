@@ -1,5 +1,6 @@
 # Prueba Tecnica Desarrollador Front-End
 En este proyecto se utilizaron React junto con paquetes de recursos como Axios (para la gestion de APis) y MaterialUi (para el desarrollo de un rating interactivo).
+Si no se muestra ninguna imagen es debido al error CORS, dentro del codigo de App.jsx se documenta una opcion adicional para la funcionalidad de la aplicacion web.
 
 # Instalacion del proyecto
 1. Instalar Node.js (junto con npm como gestor de paquetes).
