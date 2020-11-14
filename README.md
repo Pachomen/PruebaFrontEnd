@@ -1,6 +1,21 @@
 # Prueba Tecnica Desarrollador Front-End
 En este proyecto se utilizaron React junto con paquetes de recursos como Axios (para la gestion de APis) y MaterialUi (para el desarrollo de un rating interactivo).
 
+# Instalacion del proyecto
+1. Instalar Node.js (junto con npm como gestor de paquetes).
+2. Ingresar a la carpeta del proeyecto donde se descargo el repositorio desde la consola de Node.
+3. Instalar las dependecias del proyecto con el comando:
+
+### `npm intall`
+
+4. Iniciar el proyecto con el comando:
+
+### `npm start`
+
+5.Se abrira una ventana en el navegador con la ruta de [http://localhost:3000](http://localhost:3000) con el proyecto.
+
+Para mas informacion seguir la documentacion de React.
+
   
 # Getting Started with Create React App
 
