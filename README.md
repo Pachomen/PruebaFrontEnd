@@ -4,6 +4,9 @@ En este proyecto se utilizaron React junto con paquetes de recursos como Axios (
 # Instalacion del proyecto
 1. Instalar Node.js (junto con npm como gestor de paquetes).
 2. Ingresar a la carpeta del proyecto donde se descargo el repositorio desde la consola de Node.
+
+### `cd (La direccion de descarga del proyecto)`
+
 3. Instalar las dependecias del proyecto con el comando:
 
 ### `npm install`
